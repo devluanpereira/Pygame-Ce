@@ -11,7 +11,7 @@ class Editor:
 
         pygame.init()
 
-        pygame.display.set_caption('Editor')
+        pygame.display.set_caption('Editor Pers')
         self.screen = pygame.display.set_mode((640, 480))
         self.display = pygame.Surface((320, 240))
         self.clock = pygame.time.Clock()
