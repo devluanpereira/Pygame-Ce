@@ -4,12 +4,12 @@
 <p align=center>
      <img src="https://img.shields.io/github/languages/code-size/Luan-Pereira66/Pygame-Ce" alt="code-size">
      <a href="https://github.com/Luan-Pereira66/Pygame-Ce/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Luan-Pereira66/Pygame-Ce" alt="license"></a>
+     <img src="https://img.shields.io/github/license/Luan-Pereira66/Pygame-Ce" alt="license"></a>
     
 </p>
 
 <p align="center">
-<img src="https://i.imghippo.com/files/W9Q0j1715526841.png" alt="screenshot" width="100%">
+<img src="https://i.imghippo.com/files/W9Q0j1715526841.png" alt="screenshot" width="100%" height="50%">
 </p>
 
 ## 🔧Local development
