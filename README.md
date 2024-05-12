@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.imghippo.com/files/W9Q0j1715526841.png" alt="screenshot" width="100%" height="50%">
+<img src="https://i.imghippo.com/files/W9Q0j1715526841.png" alt="screenshot" width="600" height="350">
 </p>
 
 ## 🔧Local development
